@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "user": "Elon Reeve Musk",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "../../assets/Hansel.png"
+  },
+  {
+    "id": 2,
+    "user": "Chaim Lewis",
+    "tweets": 888,
+    "followers": 200500,
+    "avatar": "../../assets/beth-smith.png"
+  },
+  {
+    "id": 3,
+    "user": "Kennedy Lane",
+    "tweets": 999,
+    "followers": 300500,
+    "avatar": "../../assets/eric-cartman.png"
+  },
+  {
+    "id": 4,
+    "user": "Wylie Pope",
+    "tweets": 1000,
+    "followers": 400500,
+    "avatar": "../../assets/jerry-smith.png"
+  },
+  {
+    "id": 5,
+    "user": "Cyrus Jackson",
+    "tweets": 111,
+    "followers": 500500,
+    "avatar": "../../assets/john-wick.png"
+  },
+  {
+    "id": 6,
+    "user": "Abbot Franks",
+    "tweets": 222,
+    "followers": 600500,
+    "avatar": "../../assets/kenny-mccormick.png"
+  },
+  {
+    "id": 7,
+    "user": "Reuben Henry",
+    "tweets": 333,
+    "followers": 700500,
+    "avatar": "../../assets/morty.png"
+  },
+  {
+    "id": 8,
+    "user": "Simon Morton",
+    "tweets": 444,
+    "followers": 800500,
+    "avatar": "../../assets/rick-sanchez.png"
+  },
+  {
+    "id": 9,
+    "user": "Thomas Lucas",
+    "tweets": 555,
+    "followers": 900500,
+    "avatar": "../../assets/stan-marsh.png"
+  },
+  {
+    "id": 10,
+    "user": "Alec Howard",
+    "tweets": 1000100,
+    "followers": 1000500,
+    "avatar": "../../assets/summer.png"
+  }
+]

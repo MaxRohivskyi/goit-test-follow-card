@@ -1,10 +1,11 @@
-import CardItem from './CardItem';
+import CardList from './CardList';
+import { AppContainer } from './App.styled';
 
 const App = () => {
   return (
-    <>
-      <CardItem />
-    </>
+    <AppContainer>
+      <CardList />
+    </AppContainer>
   );
 };
 
