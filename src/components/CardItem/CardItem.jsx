@@ -23,7 +23,6 @@ const CardItem = ({ originalUser }) => {
   );
 
   const handleToggle = () => {
-    console.log(followers);
     const newFollower = currentIsFollowing ? followers : followers + 1;
     setFollower(newFollower);
     setIsCurrentIsFollowing(!currentIsFollowing);
