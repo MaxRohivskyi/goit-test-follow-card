@@ -38,7 +38,7 @@ const CardItem = ({ originalUser }) => {
       <Avatar src={avatar} alt="avatar" />
       <Frame />
       <Info>
-        <Text> {user}</Text>
+        <UserText> {user}</UserText>
         <Text> {tweets}</Text>
         <Text>{followersInFormat} Followers</Text>
         <Btn
