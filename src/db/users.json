@@ -8,35 +8,35 @@
   },
   {
     "id": 2,
-    "user": "Chaim Lewis",
+    "user": "Eric Theodore Cartman",
     "tweets": 888,
     "followers": 200500,
     "avatar": "https://user-images.githubusercontent.com/99553180/226828794-f531298d-2140-4ed8-b3a6-103e68b2ff3a.png"
   },
   {
     "id": 3,
-    "user": "Kennedy Lane",
+    "user": "Beth Smith (Sanchez)",
     "tweets": 999,
     "followers": 300500,
     "avatar": "https://user-images.githubusercontent.com/99553180/226827502-5e4eb501-23b5-484e-b013-b0a42e5d3d00.png"
   },
   {
     "id": 4,
-    "user": "Wylie Pope",
+    "user": "Jerry Smith",
     "tweets": 1000,
     "followers": 400500,
     "avatar": "https://user-images.githubusercontent.com/99553180/226828955-8007fd76-efa6-4541-8194-db0e3e3e4cec.png"
   },
   {
     "id": 5,
-    "user": "Cyrus Jackson",
+    "user": "John Wick",
     "tweets": 111,
     "followers": 500500,
     "avatar": "https://user-images.githubusercontent.com/99553180/226828997-46409aa1-54b6-4557-bd01-c3aeeb13e75a.png"
   },
   {
     "id": 6,
-    "user": "Abbot Franks",
+    "user": "Kenny McCormick",
     "tweets": 222,
     "followers": 600500,
     "avatar": "https://user-images.githubusercontent.com/99553180/226829049-a78c599c-01ce-45fd-9958-ccf1c272a545.png"
@@ -50,21 +50,21 @@
   },
   {
     "id": 8,
-    "user": "Simon Morton",
+    "user": "Morty Smith",
     "tweets": 444,
     "followers": 800500,
     "avatar": "https://user-images.githubusercontent.com/99553180/226829192-2703c7ed-0183-4ca1-b194-fa37842ecdd8.png"
   },
   {
     "id": 9,
-    "user": "Thomas Lucas",
+    "user": "Rick Sanchez",
     "tweets": 555,
     "followers": 900500,
     "avatar": "https://user-images.githubusercontent.com/99553180/226829237-fa20a07a-390a-43de-a16a-1fc6f76e1373.png"
   },
   {
     "id": 10,
-    "user": "Alec Howard",
+    "user": "Summer Smith",
     "tweets": 1000100,
     "followers": 1000500,
     "avatar": "https://user-images.githubusercontent.com/99553180/226829302-6c83871c-3992-437c-b66d-3ec87fd24f31.png"

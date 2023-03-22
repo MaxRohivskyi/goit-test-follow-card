@@ -30,7 +30,6 @@ const CardItem = ({ originalUser }) => {
   };
 
   const followersInFormat = new Intl.NumberFormat('en-US').format(follower);
-  console.log();
 
   return (
     <CardItemWrapper>
