@@ -23,12 +23,14 @@ const CardItem = ({ originalUser }) => {
   );
 
   const handleToggle = () => {
-    const newFollower = currentIsFollowing ? followers - 1 : followers + 1;
+    console.log(followers);
+    const newFollower = currentIsFollowing ? followers : followers + 1;
     setFollower(newFollower);
     setIsCurrentIsFollowing(!currentIsFollowing);
   };
 
-  const followersInFormat = new Intl.NumberFormat('en-US').format(followers);
+  const followersInFormat = new Intl.NumberFormat('en-US').format(follower);
+  console.log();
 
   return (
     <CardItemWrapper>
